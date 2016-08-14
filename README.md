@@ -8,6 +8,6 @@ License: WTFPL
 
 ## Credit
 
-* textures/coffee_bean.png taken from Farming Redo (WTFPL)
+* textures/coffee_bean.png taken from Farming Redo (CC0)
 
 Have I missed out credit? Please tell me.
