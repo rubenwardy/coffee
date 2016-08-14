@@ -4,7 +4,7 @@ Adds Coffee to Minetest.
 
 Version 0.1  
 Created by [rubenwardy](http://rubenwardy.com/).  
-License: WTFPL
+License: MIT
 
 ## Credit
 
